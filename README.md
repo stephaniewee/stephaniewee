@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Programming Languages: Python 3, C
+Object Oriented: Java
+Web Development: HTML, CSS, Javascript, PHP
+Database: SQL
+Networking: Shell Scripting (Unix)
