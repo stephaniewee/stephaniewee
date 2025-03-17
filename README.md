@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Programming Languages: Python 3, C
-Object Oriented: Java
-Web Development: HTML, CSS, Javascript, PHP
-Database: SQL
+Programming Languages: Python 3, C <br>
+Object Oriented: Java <br>
+Web Development: HTML, CSS, Javascript, PHP <br>
+Database: SQL <br>
 Networking: Shell Scripting (Unix)
